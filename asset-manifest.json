@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.12b39ca3.css",
+    "main.js": "/portfolio/static/js/main.e3b51caf.js",
+    "static/js/453.be81eee1.chunk.js": "/portfolio/static/js/453.be81eee1.chunk.js",
+    "static/media/video_mockup1.gif": "/portfolio/static/media/video_mockup1.94b3d2d940e4a8a950fb.gif",
+    "static/media/video_mockup2.gif": "/portfolio/static/media/video_mockup2.25919dbae14291ff3add.gif",
+    "static/media/video_mockup3.gif": "/portfolio/static/media/video_mockup3.01bd8e811bdf7689d0c9.gif",
+    "static/media/mock06.png": "/portfolio/static/media/mock06.5c7c6d64e169a438b743.png",
+    "static/media/mock07.png": "/portfolio/static/media/mock07.3052a1d26afa0ecd2875.png",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/CV_VO_HOANG_PHI_HUNG_en.pdf": "/portfolio/static/media/CV_VO_HOANG_PHI_HUNG_en.2e3965defe01c23f772c.pdf",
+    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock08.png": "/portfolio/static/media/mock08.90da20635544c42c6d37.png",
+    "static/media/mock05.png": "/portfolio/static/media/mock05.1810aa9c7c2e6f87544d.png",
+    "static/media/mock09.png": "/portfolio/static/media/mock09.cbf54ce1f6326723c2c1.png",
+    "static/media/mock01.png": "/portfolio/static/media/mock01.7efb7c9665af5aa8010b.png",
+    "static/media/mock10.png": "/portfolio/static/media/mock10.85e2ffe5b9a90efbfa05.png",
+    "static/media/sparkle_yellow.gif": "/portfolio/static/media/sparkle_yellow.af6d9ef3d3ede8f9f697.gif",
+    "index.html": "/portfolio/index.html",
+    "main.12b39ca3.css.map": "/portfolio/static/css/main.12b39ca3.css.map",
+    "main.e3b51caf.js.map": "/portfolio/static/js/main.e3b51caf.js.map",
+    "453.be81eee1.chunk.js.map": "/portfolio/static/js/453.be81eee1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b39ca3.css",
+    "static/js/main.e3b51caf.js"
+  ]
+}
